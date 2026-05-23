@@ -1,8 +1,7 @@
 # Showkeys
-```markdown
+
 > **Note:** This is a personal fork of [nvzone/showkeys](https://github.com/nvzone/showkeys). Huge thanks to nvzone for this plugin.
 > This fork fixes a crash that occurs when entering terminal mode — window validity checks were added to `update_win_w` and `clear_and_close` in `utils.lua`.
-```
 
 Eye-candy keys screencaster for Neovim
 
